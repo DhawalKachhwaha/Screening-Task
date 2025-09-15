@@ -10,7 +10,7 @@
   - built the keycloak using kc.sh build
   - created a systemd service
   - created 2 apache conf
-    - redirect all https trafic to https
+    - redirect all http trafic to https
     - to server keycloak at 165.22.209.0/keycloak
   - started the systemd and httpd service
   - created a permanent admin user
