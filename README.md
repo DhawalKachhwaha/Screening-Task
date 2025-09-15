@@ -18,6 +18,11 @@ This guide provides a streamlined approach to setting up a **Digital Ocean dropl
 
 The setup is broken down into the following sections. Each section has its own markdown file with detailed steps:
 
+- [Server Setup](https://github.com/DhawalKachhwaha/Screening-Task/blob/main/docs/01-server-setup.md)
+- [Keycloak Setup](https://github.com/DhawalKachhwaha/Screening-Task/blob/main/docs/02-keycloak-setup.md)
+- [Drupal 11 Setup](https://github.com/DhawalKachhwaha/Screening-Task/blob/main/docs/03-drupal-setup.md)
+- [PHP Webapp Setup](https://github.com/DhawalKachhwaha/Screening-Task/blob/main/docs/04-php-setup.md)
+- [Django Setup](https://github.com/DhawalKachhwaha/Screening-Task/blob/main/docs/05-django-setup.md)
 
 ---
 
