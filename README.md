@@ -1,6 +1,6 @@
 ## Digital Ocean Server Setup with Keycloak SSO
 
-This guide provides a streamlined approach to setting up a **Digital Ocean droplet** with **Rocky Linux 10**, configuring **Keycloak** for Single Sign-On (SSO), and deploying three separate applications: **Drupal 11**, a **Django** project, and a generic **PHP** application.
+This repository has my approach to setting up a **Digital Ocean droplet** with **Rocky Linux 10**, configuring **Keycloak** for Single Sign-On (SSO), and deploying three separate applications: **Drupal 11**, a **Django** project, and a generic **PHP** application.
 
 ---
 
