@@ -1,5 +1,7 @@
 ### 2. Django Project Setup & SSO
 
+## No major changes from my side
+
 **A. Create Database:**
 
 ```
@@ -98,3 +100,6 @@ For this to work, you'll run Gunicorn listening on port 8000. Create a `systemd`
     
 
 Restart Gunicorn and Apache to apply changes.
+
+### Shortcomings 
+- redirect after login not working correctly 
