@@ -1,6 +1,23 @@
 ### 2. Keycloak Installation & Configuration
 
-Keycloak requires Java. We'll install OpenJDK and then set up Keycloak.
+## My Changes:
+- used openjdk-21 instead of openjdk-17 which no longer in dnf package manager as well does not support newer version of keycloak i.e. 26.x.x
+- used keycloak version 26.3.3 instead on 24.0.4
+- went straight to production setup, bellow is my setup flow:
+  - created a mariadb db.
+  - installed keycloak
+  - setup temp-admin user pass using bootstrap-admin command
+  - built the keycloak using kc.sh build
+  - created a systemd service
+  - created 2 apache conf
+    - redirect all https trafic to https
+    - to server keycloak at 165.22.209.0/keycloak
+  - started the systemd and httpd service
+  - created a permanent admin user
+  - loged into the new admin user and deleted the temp user
+  - created a realm named fossee for our application setup 
+  
+
 
 **A. Install Java & Keycloak:**
 
