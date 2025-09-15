@@ -1,8 +1,6 @@
 ### 1. Digital Ocean Droplet & Initial Setup
 
-First, we'll create the server and perform essential security hardening.
-
-**A. Create the Droplet:**
+**A. Created a Droplet by following these steps:**
 
 1. **Log in** to your Digital Ocean control panel.
     
