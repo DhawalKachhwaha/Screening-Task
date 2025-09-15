@@ -1,5 +1,7 @@
 ## Page 3: PHP Application 
 
+## No major changes from my side 
+
 ### 1. Generic PHP Project Setup
 
 **A. Deploy Application:**
