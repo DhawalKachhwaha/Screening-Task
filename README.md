@@ -4,15 +4,6 @@ This repository has my approach to setting up a **Digital Ocean droplet** with *
 
 ---
 
-## Live Deployment
-
-- **Droplet IP (Doubles as a landing page with all the links)**: [https://165.22.209.0](https://165.22.209.0)  
-- **Keycloak Login**: [https://165.22.209.0/keycloak](https://165.22.209.0/keycloak)
-- **Drupal 11 Application**: [https://165.22.209.0/drupal](https://165.22.209.0/drupal)
-- **PHP Application**: [https://165.22.209.0/php](https://165.22.209.0/php)
-- **Django Application**: [https://165.22.209.0/django](https://165.22.209.0/django)  
-
----
 
 ## Documentation
 
